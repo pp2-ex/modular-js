@@ -79,7 +79,7 @@ document.body.addEventListener('mousemove', function (e) {
 We developed biojs slush to quickly generate a professional dev enviroment for you. Just 
 
 ```
-npm install biojs-slush
+npm install slush-biojs
 ```
 
 and then do in an empty folder 
