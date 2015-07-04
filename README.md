@@ -31,7 +31,7 @@ Then create an instance of looker and attach it to dom:
 ```js
 // your index.js file
 var Looker = require('looker-on');
-new Looker(document.body);
+var observer = new Looker(document.body);
 ```
 
 ``` html
